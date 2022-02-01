@@ -20,22 +20,24 @@ The analysis of the election show that:
   - Charles Casper Stockham
   - Dianna DeGette
   - Raymon Anthony Doane
-- The following code was used to determine candidate vote counts: ![Candidate_Results](https://github.com/neilatmaram/Election_Analysis/blob/main/candidate_results.png?raw=true)
+- The following code was used to determine candidate vote counts: ![Candidate_Results](https://github.com/neilatmaram/Election_Analysis/blob/main/Resources/candidate_results.png)
 - The candidate results were:
   - Charles Casper Stockham received 23.0% of the vote (85,213 votes).
   - Diana DeGette received 73.8% of the vote (272,892 votes).
   - Raymon Anthony Doane received 3.1% of the vote (11,606 votes).
-- The following code was used to determine thw winner of the election: ![Winning_Candidate](https://github.com/neilatmaram/Election_Analysis/blob/main/image.jpg?raw=true)
+- The following code was used to determine the winner of the election: ![Winning_Candidate](https://github.com/neilatmaram/Election_Analysis/blob/main/Resources/winning_candidate.png)
 -The winner of the election was:
   - Dianna DeGette, who received 73.8% of the vote (272,892 votes).
 - The voters came from three counties:
   - Jefferson
   - Denver 
   - Arapahoe
+- The following code was used to determine county vote counts: ![County_Results](https://github.com/neilatmaram/Election_Analysis/blob/main/Resources/county_results.png)
 - The county results were:
   - Jefferson County is where 10.5% of the votes were cast (38,855 votes).
   - Denver County is where 82.8% of the votes were cast (306,055 votes).
   - Arapahoe County is where 6.7% of the votes were cast (24,801 votes).
+- The following code was used to determine the county with the most votes: ![Winning_County](https://github.com/neilatmaram/Election_Analysis/blob/main/Resources/winning_county.png)
 - The county with the most votes was:
   - Denver County where 82.8% of the votes were cast (306,055).
  
