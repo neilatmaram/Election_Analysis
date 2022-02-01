@@ -15,18 +15,34 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 The analysis of the election show that:
-- There were "x" votes cast in the election.
+- There were 369,711 votes cast in the election.
 - The candidates were:
-  - Candidate 1
-  - Candidate 2
-  - Candidate 3
+  - Charles Casper Stockham
+  - Dianna DeGette
+  - Raymon Anthony Doane
+- The following code was used to determine candidate vote counts: ![Candidate_Results](https://github.com/neilatmaram/Election_Analysis/blob/main/Resources/candidate_results.png)
 - The candidate results were:
-  - Candidate 1 received "x%" of the vote and "y" number of votes.
-  - Candidate 2 received "x%" of the vote and "y" number of votes.
-  - Candidate 3 received "x%" of the vote and "y" number of votes.
+  - Charles Casper Stockham received 23.0% of the vote (85,213 votes).
+  - Diana DeGette received 73.8% of the vote (272,892 votes).
+  - Raymon Anthony Doane received 3.1% of the vote (11,606 votes).
+- The following code was used to determine the winner of the election: ![Winning_Candidate](https://github.com/neilatmaram/Election_Analysis/blob/main/Resources/winning_candidate.png)
 -The winner of the election was:
-  - Candidate (1, 2 or 3), who received "x%" of the vote and "y" number of votes.
+  - Dianna DeGette, who received 73.8% of the vote (272,892 votes).
+- The voters came from three counties:
+  - Jefferson
+  - Denver 
+  - Arapahoe
+- The following code was used to determine county vote counts: ![County_Results](https://github.com/neilatmaram/Election_Analysis/blob/main/Resources/county_results.png)
+- The county results were:
+  - Jefferson County is where 10.5% of the votes were cast (38,855 votes).
+  - Denver County is where 82.8% of the votes were cast (306,055 votes).
+  - Arapahoe County is where 6.7% of the votes were cast (24,801 votes).
+- The following code was used to determine the county with the most votes: ![Winning_County](https://github.com/neilatmaram/Election_Analysis/blob/main/Resources/winning_county.png)
+- The county with the most votes was:
+  - Denver County where 82.8% of the votes were cast (306,055).
  
 ## Challenge Overview
+The purpose of this election audit analysis is to determine the voter turnout for each county, the percentage of votes from each county out of the total count andthe county with the highest turnout.
 
 ## Challenge Summary
+This script can be used in any election. The file names would need to be updated as well as the column numbers to extract the proper information. Also, variable names should be changed so that they correspond to names and numbers they are representing. Such modifications will allow the script to be used for national elections where the county can be replaced with state and county elections where the county can be replaced with precincts.
